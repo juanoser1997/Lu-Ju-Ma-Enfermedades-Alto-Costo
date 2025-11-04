@@ -40,10 +40,10 @@ Proyecto_Enfermedades_Alto_Costo/
     └── app.py
 ```
 
-## Inicio Rápido
+## Inicio Rápido 
 
 ### Requisitos
-- Python 3.8 o superior
+- Python 3.8 o superior .
 - Jupyter Notebook o JupyterLab
 - pip
 
