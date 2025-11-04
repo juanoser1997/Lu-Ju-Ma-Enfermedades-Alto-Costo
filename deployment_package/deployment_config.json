@@ -1,0 +1,7 @@
+{
+  "model_file": "model.joblib",
+  "preprocessor_file": "preprocessor.joblib",
+  "label_encoder_file": "label_encoder.joblib",
+  "metadata_file": "metadata.json",
+  "date_exported": "2025-11-03 17:29:31"
+}
